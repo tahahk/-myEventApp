@@ -1,0 +1,85 @@
+body {
+  background-image: url("../images/background.jpg");
+  background-color: #cccccc !important;
+  background-repeat: no-repeat;
+  background-size: cover ;
+}
+img.logo{
+  width: 50px;
+  height:50px;
+}
+#fluid{
+  width: fit-content;
+  height: fit-content;
+  max-height: 473px;
+  max-width: 511px;
+  position: relative;
+  left: 325px;
+  top: 200px;
+}
+img#back-black{
+  position: absolute;
+  left: 327px;
+  top: 172px;
+  width: 510px;
+  height: 450px;
+  border-radius: 10px;
+  opacity: 0.6
+}
+label{
+  color: #fff
+}
+.btn-nav{
+  position: relative;
+  left: 1px;
+  top: 0px;
+}
+#position-r{
+  position: relative;
+  left: 230px;
+  top: 16px;
+  color: #fff;
+
+}
+#position-a{
+  position: relative;
+  left: 85px;
+  top: 11px;
+  color: #fff;
+}
+a{
+  position: relative;
+  left: 87px;
+  top: 11px;
+  color: #fff;
+}
+#btn-login{
+  position: relative
+;     left: 0px;
+top: 1px;
+}
+.left{
+  position: relative;
+  left: 511px;
+}
+.form-control{
+height: 45px;
+ }
+ #div1{
+   position: relative;
+   left: -66px;
+   top: -95px;
+   height: 0px;
+   margin: 0 auto;
+   
+ }
+ .btn-signup{
+   position: relative;
+   left: 191px;
+   top: 15px;
+ }
+ #content{
+  width: 51%;
+  height: 0px;
+}
+ 

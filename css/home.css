@@ -1,0 +1,153 @@
+#container{
+    width: 458px;
+    margin: 0 auto;
+    height: 0px;
+    position: relative;
+    left: -75px;
+    top: 48px;
+
+}
+
+img.logo{
+    width: 50px;
+    height:50px;
+  }
+  .logo-text {
+    position: relative;
+    top: 17px;
+}
+.border{
+    width: 100px;
+}
+#username{
+    position: relative;
+    top: 0px;
+    left: 10px;
+}
+.left{
+    /* position: relative;
+    left: 724px; */
+float: left!important
+}
+.body{
+    width: 638px;
+    height: 500px;
+    position: relative;
+    top: -238px;
+    left: 178px;
+}
+
+.background {
+    position: relative;
+    opacity: 0.4;
+    margin: 0 auto;
+    border-radius: 58px;
+    width: 700px;
+    height: 500px;
+    top: 120px;
+}
+.btn1{
+    position: relative;
+    left: 543px;
+    top: -160px;
+    background: #212529!important;
+    color: #fff
+}
+/* #div1{
+    position: relative;
+    left: -66px;
+    top: -95px;
+    height: 0px;
+    width: 468px;
+  } */
+  #div1{
+      width: 46%
+  }
+  img.bg{
+    position: relative;
+    left: 327px;
+    top: 172px;
+    width: 506px;
+    height: 450px;
+    border-radius: 10px;
+    opacity: 0.6
+  }
+  div.content{
+    width: 485px;
+    position: relative;
+    left: 74%;
+    top: -179px;
+  }
+  span.small-font{
+      font-size: 20px;
+  }
+  .for-background{
+    width: 825px;
+    margin: 56px auto;
+    /* background: #000; */
+    height: 398px;
+  }
+  .allEvents{
+      width: 97%
+  }
+  .card1{
+      margin: 0 auto;
+      position: relative;
+      top: 38px
+  }
+  .rt-position{
+    width: 216px;
+}
+.lt-position{
+    position: relative;
+    top: 8px;
+    width: 613px;
+    margin-right: 18px;
+}
+.btn-div{
+    position: relative;
+    left: 78px;
+    top: 12px;
+}
+.name{
+position: relative;
+top: -20px;
+left: -36px;
+width: 112%;
+height: 57px;
+text-align: center;
+font-weight: bolder;
+border-bottom: 8px solid;
+}
+.date{
+    position: relative;
+    left: 156px;
+}
+.time{
+    position: relative;
+    left: 155px;
+}
+.venue{
+    position: relative;
+    left: 153px;
+}
+.city{
+    position: relative;
+    left: 167px;
+}
+.price{
+    position: relative;
+    left: 156px;
+}
+.event-des{
+    position: relative;
+    left: 84px;
+}
+.head{
+    position: relative;
+    top: 16px;
+    font-stretch: 100px;
+}
+.not-going{
+    width: 621px;
+}
